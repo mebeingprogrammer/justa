@@ -282,7 +282,7 @@ body {
 
 #BOX-BANNER {
    padding: 60px;
-   background-image: url("/img/BannerBackground.jpg");
+   background-image: url("img\BannerBackground.jpg");
    position: relative;
    z-index: 1;
    background-size: cover;
